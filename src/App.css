@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5rem;
+  background: rgb(3, 128, 195);
+  min-width: 100vw;
+}
+
+.left-data {
+  width: 400px;
+}
+
+.right-data {
+  width: 400px;
+}
